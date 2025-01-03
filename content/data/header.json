@@ -40,7 +40,7 @@
         },
         {
             "label": "Dropdown",
-            "altText": "Dropdown",
+            "altText": "",
             "links": [],
             "labelStyle": "secondary",
             "type": "SubNav"
