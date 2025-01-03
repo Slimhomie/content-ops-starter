@@ -22,7 +22,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: My work
+      - label: My previous work
         altText: ''
         url: /
         showIcon: true
