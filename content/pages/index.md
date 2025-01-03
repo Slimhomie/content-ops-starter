@@ -168,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Satistfied Clientile
     images:
       - altText: Wellster logo
         type: ImageBlock
