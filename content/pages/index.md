@@ -8,12 +8,8 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Designs Worth Your Time
-    text: >
-      Do you want a unique, personalized logo? Need business marketing
-      consultation? You know who to call; Sigil Designs can and will fit all of
-      your business and personal needs! From picking a style that fits your
-      business aesthetic best to any and all art commissions, there's is nothing
-      Sigil won't do for you. Just shoot a text or an email!
+    text: |2
+           Do you want a unique, personalized logo? Need business marketing consultation? You know who to call; Sigil Designs can and will fit all of your business and personal needs! From picking a style that fits your business aesthetic best to any and all art commissions, there's is nothing Sigil won't do for you. Just shoot a text or an email!
     actions:
       - label: Get started
         altText: ''
