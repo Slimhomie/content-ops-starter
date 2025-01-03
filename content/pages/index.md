@@ -170,8 +170,6 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - altText: Empathy logo
-        type: ImageBlock
       - altText: Wellster logo
         type: ImageBlock
       - altText: Vise logo
