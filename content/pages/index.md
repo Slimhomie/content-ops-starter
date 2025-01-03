@@ -172,7 +172,6 @@ sections:
     images:
       - altText: Wellster logo
         type: ImageBlock
-        url: /images/all designs proj.png
       - altText: Vise logo
         type: ImageBlock
       - altText: Contentful logo
