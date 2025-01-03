@@ -24,7 +24,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: My previous work
+      - label: ''
         altText: ''
         url: /
         showIcon: true
