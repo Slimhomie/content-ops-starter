@@ -9,9 +9,11 @@ sections:
       type: TitleBlock
     subtitle: Designs Worth Your Time
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Do you want a unique, personalized logo? Need business marketing
+      consultation? You know who to call; Sigil Designs can and will fit all of
+      your business and personal needs! From picking a style that fits your
+      business aesthetic best to any and all art commissions, there's is nothing
+      Sigil won't do for you. Just shoot a text or an email!
     actions:
       - label: Get started
         altText: ''
